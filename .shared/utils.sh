@@ -2,6 +2,10 @@
 
 # Initializes a kata
 initkata() {
+    DIFFICULTY=$(dirname "$(readlink -fm "$0")")
+    TOPIC=$(dirname $DIFFICULTY)
+    KATA=$(basename $TOPIC)-$(basename $DIFFICULTY)
+
     echo "[KATA] Setting up the $KATA kata"
     echo "[KATA] ------"
     echo "[KATA] "
@@ -14,7 +18,6 @@ initkata() {
     cd exercise
     echo "// $KATA" > exercise.groovy
     echo "" >> exercise.groovy
-    echo "$CONTENTS" >> exercise.groovy
     echo "[KATA] Done!"
     echo "[KATA] "
     echo "[KATA] Don't forget to:"

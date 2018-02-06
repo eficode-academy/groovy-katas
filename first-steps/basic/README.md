@@ -28,8 +28,8 @@ If the number is 10 or higher, it prints `Whoa, <number> is too big!` instead.
 
 - Run `groovy exercise.groovy`
 - Q: Was the output as expected?
-- Q: How did you construct the result strings? Is there a shorter way of building them?
-- Q: What are some other ways to write such a conditional block? What are their up- and downsides?
+- Q: How did you format your resulting strings? When would you use concatenation, `StringBuilder`, variable expansion, ...?
+- Q: What are some other ways to write your conditional block? What are their up- and downsides?
 
 ## Looping
 
