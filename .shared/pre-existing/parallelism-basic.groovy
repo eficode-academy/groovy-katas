@@ -3,7 +3,7 @@
 // import ...
 
 // A list of tasks that need executing
-List<Closure> tasks = (0..25).collect { num ->
+List<Closure> tasks = (1..25).collect { num ->
     return {
         String prefix = "[process ${num.toString().padLeft(3, '0')}]"
         println "$prefix start"
