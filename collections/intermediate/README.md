@@ -28,7 +28,7 @@ Print out the following:
 
 ## Filtering lists
 
-Define a list containing integers 0 to 25.
+Define a list containing integers 1 to 25.
 
 Print out the following:
     - a list containing all numbers smaller than 15
@@ -42,4 +42,4 @@ Print out the following:
 <br>
 <br>
 
-_Recommended continuation: *TODO*_
+_Recommended continuation: *collections/advanced*_

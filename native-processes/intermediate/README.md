@@ -33,4 +33,4 @@ Write a script that runs the `today-is.groovy` script and prints output/errors a
 <br>
 <br>
 
-_Recommended continuation: *native-processes/intermediate*_
+_Recommended continuation: *parallelism/basic*_

@@ -25,4 +25,4 @@ Call the closure, and print the result prefixed with `[OUTSIDE] `, with the foll
 <br>
 <br>
 
-_Recommended continuation: *TODO*_
+_Recommended continuation: *collections/intermediate*_

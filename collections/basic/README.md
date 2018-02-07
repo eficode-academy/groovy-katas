@@ -29,4 +29,4 @@ Print the value of your entries.
 <br>
 <br>
 
-_Recommended continuation: *TODO*_
+_Recommended continuation: *closures/basic*_
