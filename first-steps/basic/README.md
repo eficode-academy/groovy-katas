@@ -1,5 +1,7 @@
 # First steps (Basic)
 
+If you need help remembering the syntax, the [groovy homepage](http://groovy-lang.org/syntax.html) is your friend!
+
 ## Hello, world!
 
 Write a line that prints `Hello, world!`.
@@ -9,15 +11,14 @@ Write a line that prints `Hello, world!`.
 
 ## Defining variables
 
-First, store three numbers in three different variables.
+First, store three numbers in three different variables using the `def`, `int` or `String` keyword.
 
 Then add, subtract, multiply or divide the numbers however you like, store the result in a new variable.
 
 Finally, print the result.
 
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
-- Q: What types did you use for your variables? Are there any other options?
+- Q: What types did you use for your variables? Are there any other options? Did the type change how the code worked?
 
 ## Logic paths
 
