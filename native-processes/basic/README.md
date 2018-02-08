@@ -16,7 +16,7 @@ Write a script that executes `ls -l` and prints the resulting object.
 Write a script that executes `ls -l` and prints the process output.
 
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
+- Assert the output matches that of a self-run `ls -l`
 
 <br>
 <br>

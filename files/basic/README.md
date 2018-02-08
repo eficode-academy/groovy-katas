@@ -7,7 +7,7 @@ Define a File variable pointing to the `tournament-results.csv` file.
 Print out the file contents.
 
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
+- Assert the output matches the file contents
 
 ## Creating and writing to files
 
@@ -28,20 +28,19 @@ yellow-canaries |  11 |  10 |  13 |
 Finally, print out the contents of `pretty-results.txt`.
 
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
+- Assert your table looks really pretty
 - Q: How well would your parsing and printing fare if the text files were extremely large? How could you improve it?
 
 ## Copying/moving files
 
 Write a script that copies the `tournament-results.csv` file into a `ping-pong-2018` subdirectory.
-Create the subdirectory if necessary.
+Have the the subdirectory be created if necessary.
 
 Check if `ping-pong-2018/tournament-results.csv` exists.
 If so, rename it to `turqoise-turtles-results.csv`.
 
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
-- Q: Does the file structure match expectations?
+- Assert the output and file structure are correct
 
 <br>
 <br>

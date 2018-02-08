@@ -5,7 +5,7 @@
 Check if the `timestamp` string exactly matches the timestamp regex in the comments.
 
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
+- Assert the timestamp matches the `timestamp` string.
 - Q: Add some whitespace to the `timestamp` string. Does it still match?
 
 ## Contains
@@ -13,7 +13,7 @@ Check if the `timestamp` string exactly matches the timestamp regex in the comme
 Checks if the `timestamp` string contains any text matching the timestamp regex in the comments.
 
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
+- Assert the timestamp matches the `timestamp` string.
 - Q: Add some whitespace to the `timestamp` string. Does it still match?
 
 <br>

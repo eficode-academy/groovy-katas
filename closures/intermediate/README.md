@@ -20,7 +20,7 @@ Call the closure, and print the result prefixed with `[OUTSIDE] `, with the foll
 
 - How long do you expect this code to run for? Why?
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
+- Q: Did the code run as long as you expected it to? If not, why?
 
 <br>
 <br>

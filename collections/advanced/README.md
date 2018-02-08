@@ -9,7 +9,7 @@ Print out the following:
     - a new list containing a Map object (_name: value_) for each original entry
 
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
+- Assert your new lists are printed correctly
 - Q: What happens when you add a _null_ value to the list?
 - Q: Has the original list been mutated? If so, how can you avoid that?
 

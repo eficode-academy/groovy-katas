@@ -1,5 +1,9 @@
 # Collections (intermediate)
 
+### Hint
+
+Consider employing some Groovy [Collections methods](http://docs.groovy-lang.org/latest/html/groovy-jdk/java/util/Collection.html) or the arithmetic operators (`+`, `-`, `*`, `/`, ...)
+
 ## Manipulating lists
 
 Define two lists A and B, A containing integers 0 to 7, B containing integers 3 to 10.
@@ -11,8 +15,7 @@ Print out the following:
     - a list containing all numbers found in both A  and B
 
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
-- Q: TODO
+- Assert the lists contain the correct numbers
 
 ## Sorting lists
 
@@ -20,10 +23,10 @@ Define a list containing the names of your favorite technologies.
 
 Print out the following:
     - the contents of the list, sorted alphabetically
-    - the contents of the list, sorted by name length
+    - the contents of the list, sorted by length
 
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
+- Assert the output is sorted correctly
 - Q: Did your sorting mutate the original list? If so, how can you avoid that?
 
 ## Filtering lists
@@ -37,7 +40,7 @@ Print out the following:
     - a boolean representing whether or not the list contains the number 20
 
 - Run `groovy exercise.groovy`
-- Q: Was the output as expected?
+- Asssert the output is correct
 
 <br>
 <br>

@@ -1,12 +1,14 @@
-# groovy-kata
-Repeatable Groovy exercises
+# groovy-katas
 
-## how do I run these?
+Repeatable Groovy exercises to hone your skills
 
-Every kata has a folder for itself. Inside the folder is a `README.md` file containing the instructions of the given kata, and a `setup.sh` file that will setup a folder for the exercise.
+## How do I run these?
 
-So whenever you are ready to do a kata, just go to that kata and run the setup script.
+Every kata has dedicated folder for itself.
+Inside each folder is a `setup.sh` script which sets up a folder to run the exercise in, and a `README.md` file containing the exercise instructions.
 
-## Where to start
+To start a kata, `cd` into the exercise directory, run `./setup.sh` and open up the `README.md` for the exercise instructions.
 
-It depends. If you want to do it all in succession, start off by going into the [first steps](first-steps/basic/README.md) folder and read the readme there.
+## Where do I start?
+
+That depends. If you're new to Groovy, start off with the `first-steps` exercise, otherwise pick whichever topic you'd like to polish up on.
