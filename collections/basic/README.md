@@ -6,6 +6,8 @@ Define a List variable.
 
 Add the title of three films, shows or songs you like to the list.
 
+> hint: a list can be defined like this: `def list = ["A", "B", "C"]`
+
 Finally, iterate over the list and print out the names of its items.
 
 - Run `groovy exercise.groovy`
