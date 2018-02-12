@@ -1,12 +1,16 @@
 # Collections (basic)
 
+## Hints
+
+ - Define an empty list using `def myList = []`
+ - Define an empty map using `def myMap = [:]`
+ - Check [docs.groovy-lang.org](http://docs.groovy-lang.org/latest/html/documentation/index.html#_syntax) for more documentation.
+
 ## Interacting with lists
 
 Define a List variable.
 
 Add the title of three films, shows or songs you like to the list.
-
-> hint: a list can be defined like this: `def list = ["A", "B", "C"]`
 
 Finally, iterate over the list and print out the names of its items.
 
