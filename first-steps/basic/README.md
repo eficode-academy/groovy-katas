@@ -49,7 +49,17 @@ if (condition) {
 
 Print `Hello, world!` ten times.
 
-Classic `for` loops work: `for ()
+Classic `for` loops work in both Java and Groovy: 
+
+```groovy
+for (i = 0; i < 3; i++)
+```
+
+Or you can make use of some of Groovy's other looping mechanisms:
+
+```groovy
+3.times {}
+```
 
 - Run `groovy exercise.groovy`
 - Assert the correct amount of lines were printed.
