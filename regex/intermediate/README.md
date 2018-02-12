@@ -25,4 +25,4 @@ Print out the result.
 <br>
 <br>
 
-_Recommended continuation: *native-processes/basic*_
+_Recommended continuation: *parallelism/basic*_

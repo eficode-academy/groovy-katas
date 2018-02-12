@@ -45,4 +45,4 @@ If so, rename it to `turqoise-turtles-results.csv`.
 <br>
 <br>
 
-_Recommended continuation: *regex/basic*_
+_Recommended continuation: *closures/basic*_

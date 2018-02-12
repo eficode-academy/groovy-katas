@@ -25,4 +25,4 @@ Call the closure, and print the result prefixed with `[OUTSIDE] `, with the foll
 <br>
 <br>
 
-_Recommended continuation: *collections/intermediate*_
+_Recommended continuation: *regex/basic*_

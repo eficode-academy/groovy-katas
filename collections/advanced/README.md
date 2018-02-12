@@ -16,4 +16,4 @@ Print out the following:
 <br>
 <br>
 
-_Recommended continuation: *files/basic*_
+_Recommended continuation: *closures/intermediate*_

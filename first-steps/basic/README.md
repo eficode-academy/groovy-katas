@@ -68,4 +68,4 @@ Or you can make use of some of Groovy's other looping mechanisms:
 <br>
 <br>
 
-_Recommended continuation: *collections/basic*_
+_Recommended continuation: *collections/basic*_ 

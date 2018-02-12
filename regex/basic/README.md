@@ -19,4 +19,4 @@ Checks if the `timestamp` string contains any text matching the timestamp regex 
 <br>
 <br>
 
-_Recommended continuation: *regex/intermediate*_
+_Recommended continuation: *regex/intermediate*_ 

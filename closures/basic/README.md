@@ -30,4 +30,4 @@ Call the closure with value `Hello!`.
 <br>
 <br>
 
-_Recommended continuation: *closures/intermediate*_
+_Recommended continuation: *collections/intermediate*_
