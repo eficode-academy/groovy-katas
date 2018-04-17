@@ -8,7 +8,7 @@ Define a closure that takes two numbers and does the following:
     - print the result, prefixed with `[INSIDE] `
     - return the result
 
-Configure the closure to memoize results.
+Configure the closure to memoize results. (`Closure.memoize()`)
 
 Call the closure, and print the result prefixed with `[OUTSIDE] `, with the following values:
     - `2` and `7`
